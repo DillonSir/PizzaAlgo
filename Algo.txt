@@ -1,0 +1,5 @@
+1. Pizza Places - Pizza Hut, Pappa John's, Dominos.
+2. Crust Type - Hand tossed, Pan, Deep Dish.
+3. Sause Ammount - Light, Average, Heavy.
+4. Cheese Ammount - Light, Average, Heavy.
+5. Toppings - Pepperoni, Sausage, Ham, Bacon.
