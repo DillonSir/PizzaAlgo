@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 1. Decide what pizza place you want to order from
 2. Open the menu
@@ -7,6 +8,16 @@
 3. Sauce ammount 
 4. Cheese mmmount 
 5. Toppings 
+=======
+1. Decide what pizza place you want to order from
+2. Open the menu
+3. Delivery or carry out
+4. Pizza size
+5. Crust type 
+6. Sauce ammount 
+7. Cheese mmmount 
+8. Toppings 
+>>>>>>> 5d1ed2b60a55be28ef6b6caabc4d1e74d385e2a5
 9. Call pizza place
 10. Place order
 11. Pay for pizza
