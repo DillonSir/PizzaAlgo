@@ -1,5 +1,12 @@
-1. Pizza Places - Pizza Hut, Pappa John's, Dominos.
-2. Crust Type - Hand tossed, Pan, Deep Dish.
-3. Sauce Ammount - Light, Average, Heavy.
-4. Cheese Ammount - Light, Average, Heavy.
-5. Toppings - Pepperoni, Sausage, Ham, Bacon.
+1. decide what pizza place you want to order from
+2. Open the menu
+3. Delivery or carry out
+4. Pizza size
+5. Crust type 
+6. Sauce ammount 
+7. Cheese mmmount 
+8. Toppings 
+9. Call pizza place
+10. Place order
+11. Pay for pizza
+12. Eat pizza
