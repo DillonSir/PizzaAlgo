@@ -1,19 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-1. Decide what pizza place you want to order from
-2. Open the menu
-3. Delivery or carry out
-3. Pizza size
-2. Crust type 
-3. Sauce ammount 
-4. Cheese mmmount 
-5. Toppings 
-=======
-=======
 Steps to Order a Pizza
 
->>>>>>> d3f651bd3dbe7979aeb8aeb03b0bacba215c5769
 1. Decide what pizza place you want to order from
 2. Open the menu
 3. Delivery or carry out
@@ -22,7 +8,6 @@ Steps to Order a Pizza
 6. Sauce ammount 
 7. Cheese mmmount 
 8. Toppings 
->>>>>>> 5d1ed2b60a55be28ef6b6caabc4d1e74d385e2a5
 9. Call pizza place
 10. Place order
 11. Pay for pizza
