@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 1. Decide what pizza place you want to order from
 2. Open the menu
@@ -9,6 +10,10 @@
 4. Cheese mmmount 
 5. Toppings 
 =======
+=======
+Steps to Order a Pizza
+
+>>>>>>> d3f651bd3dbe7979aeb8aeb03b0bacba215c5769
 1. Decide what pizza place you want to order from
 2. Open the menu
 3. Delivery or carry out
